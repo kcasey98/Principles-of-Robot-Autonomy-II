@@ -1,0 +1,11 @@
+numpy
+tqdm
+tensorflow
+matplotlib
+h5py
+Pillow
+scikit-learn
+jupyter_contrib_nbextensions
+ipywidgets
+gym
+
